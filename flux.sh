@@ -25,6 +25,8 @@ NODES=(
 
 CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/501240"
+        "https://civitai.com/api/download/models/782002"
+
 )
 
 UNET_MODELS=(
