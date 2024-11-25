@@ -21,7 +21,6 @@ PIP_PACKAGES=(
 NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
     "https://github.com/cubiq/ComfyUI_essentials"
-    "https://github.com/pzc163/Comfyui-CatVTON"
 )
 
 CHECKPOINT_MODELS=(
